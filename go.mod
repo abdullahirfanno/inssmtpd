@@ -1,4 +1,4 @@
-module github.com/chrj/smtpd
+module github.com/abdullahirfanno/inssmtpd
 
 go 1.14
 
