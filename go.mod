@@ -2,4 +2,4 @@ module github.com/abdullahirfanno/inssmtpd
 
 go 1.14
 
-require github.com/eaigner/dkim v0.0.0-20150301120808-6fe4a7ee9cfb
+require github.com/chrj/smtpd v0.2.0
